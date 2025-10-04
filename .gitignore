@@ -1,0 +1,23 @@
+# Visual Studio cache
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.dll
+*.pdb
+*.exe
+*.cache
+*.log
+
+# VS Code
+.vscode/
+.vs/
