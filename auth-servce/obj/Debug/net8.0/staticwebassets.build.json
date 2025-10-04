@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "HtMBm39xKI92N4/U+5zCJ27Q7/qvtIhf96dkbECG8+Y=",
+  "Source": "auth-servce",
+  "BasePath": "_content/auth-servce",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
