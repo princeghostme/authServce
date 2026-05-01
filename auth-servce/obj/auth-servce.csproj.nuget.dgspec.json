@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "H:\\devNextx\\servces\\auth-servce\\auth-servce\\auth-servce.csproj": {}
+    "H:\\Valentine\\angualr\\valentine\\authServce\\auth-servce\\auth-servce.csproj": {}
   },
   "projects": {
-    "H:\\devNextx\\servces\\auth-servce\\auth-servce\\auth-servce.csproj": {
+    "H:\\Valentine\\angualr\\valentine\\authServce\\auth-servce\\auth-servce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\devNextx\\servces\\auth-servce\\auth-servce\\auth-servce.csproj",
+        "projectUniqueName": "H:\\Valentine\\angualr\\valentine\\authServce\\auth-servce\\auth-servce.csproj",
         "projectName": "auth-servce",
-        "projectPath": "H:\\devNextx\\servces\\auth-servce\\auth-servce\\auth-servce.csproj",
-        "packagesPath": "C:\\Users\\Prince\\.nuget\\packages\\",
-        "outputPath": "H:\\devNextx\\servces\\auth-servce\\auth-servce\\obj\\",
+        "projectPath": "H:\\Valentine\\angualr\\valentine\\authServce\\auth-servce\\auth-servce.csproj",
+        "packagesPath": "C:\\Users\\coolk\\.nuget\\packages\\",
+        "outputPath": "H:\\Valentine\\angualr\\valentine\\authServce\\auth-servce\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Prince\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\coolk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,20 +27,21 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "H:\\CustomNugetPakages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "H:\\devNextx\\servces\\auth-servce\\Contracts\\Contracts.csproj": {
-                "projectPath": "H:\\devNextx\\servces\\auth-servce\\Contracts\\Contracts.csproj"
+              "H:\\Valentine\\angualr\\valentine\\authServce\\Contracts\\Contracts.csproj": {
+                "projectPath": "H:\\Valentine\\angualr\\valentine\\authServce\\Contracts\\Contracts.csproj"
               },
-              "H:\\devNextx\\servces\\auth-servce\\Models\\Models.csproj": {
-                "projectPath": "H:\\devNextx\\servces\\auth-servce\\Models\\Models.csproj"
+              "H:\\Valentine\\angualr\\valentine\\authServce\\Models\\Models.csproj": {
+                "projectPath": "H:\\Valentine\\angualr\\valentine\\authServce\\Models\\Models.csproj"
               },
-              "H:\\devNextx\\servces\\auth-servce\\Services\\Services.csproj": {
-                "projectPath": "H:\\devNextx\\servces\\auth-servce\\Services\\Services.csproj"
+              "H:\\Valentine\\angualr\\valentine\\authServce\\Services\\Services.csproj": {
+                "projectPath": "H:\\Valentine\\angualr\\valentine\\authServce\\Services\\Services.csproj"
               }
             }
           }
@@ -55,7 +56,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -111,24 +112,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "H:\\devNextx\\servces\\auth-servce\\Contracts\\Contracts.csproj": {
+    "H:\\Valentine\\angualr\\valentine\\authServce\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\devNextx\\servces\\auth-servce\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "H:\\Valentine\\angualr\\valentine\\authServce\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "H:\\devNextx\\servces\\auth-servce\\Contracts\\Contracts.csproj",
-        "packagesPath": "C:\\Users\\Prince\\.nuget\\packages\\",
-        "outputPath": "H:\\devNextx\\servces\\auth-servce\\Contracts\\obj\\",
+        "projectPath": "H:\\Valentine\\angualr\\valentine\\authServce\\Contracts\\Contracts.csproj",
+        "packagesPath": "C:\\Users\\coolk\\.nuget\\packages\\",
+        "outputPath": "H:\\Valentine\\angualr\\valentine\\authServce\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Prince\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\coolk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -138,14 +139,15 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "H:\\CustomNugetPakages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "H:\\devNextx\\servces\\auth-servce\\Models\\Models.csproj": {
-                "projectPath": "H:\\devNextx\\servces\\auth-servce\\Models\\Models.csproj"
+              "H:\\Valentine\\angualr\\valentine\\authServce\\Models\\Models.csproj": {
+                "projectPath": "H:\\Valentine\\angualr\\valentine\\authServce\\Models\\Models.csproj"
               }
             }
           }
@@ -160,7 +162,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -181,24 +183,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "H:\\devNextx\\servces\\auth-servce\\Models\\Models.csproj": {
+    "H:\\Valentine\\angualr\\valentine\\authServce\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\devNextx\\servces\\auth-servce\\Models\\Models.csproj",
+        "projectUniqueName": "H:\\Valentine\\angualr\\valentine\\authServce\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "H:\\devNextx\\servces\\auth-servce\\Models\\Models.csproj",
-        "packagesPath": "C:\\Users\\Prince\\.nuget\\packages\\",
-        "outputPath": "H:\\devNextx\\servces\\auth-servce\\Models\\obj\\",
+        "projectPath": "H:\\Valentine\\angualr\\valentine\\authServce\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\coolk\\.nuget\\packages\\",
+        "outputPath": "H:\\Valentine\\angualr\\valentine\\authServce\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Prince\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\coolk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -208,6 +210,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "H:\\CustomNugetPakages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -226,7 +229,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -247,24 +250,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "H:\\devNextx\\servces\\auth-servce\\Services\\Services.csproj": {
+    "H:\\Valentine\\angualr\\valentine\\authServce\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\devNextx\\servces\\auth-servce\\Services\\Services.csproj",
+        "projectUniqueName": "H:\\Valentine\\angualr\\valentine\\authServce\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "H:\\devNextx\\servces\\auth-servce\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\Prince\\.nuget\\packages\\",
-        "outputPath": "H:\\devNextx\\servces\\auth-servce\\Services\\obj\\",
+        "projectPath": "H:\\Valentine\\angualr\\valentine\\authServce\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\coolk\\.nuget\\packages\\",
+        "outputPath": "H:\\Valentine\\angualr\\valentine\\authServce\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Prince\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\coolk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -274,14 +277,18 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "H:\\CustomNugetPakages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "H:\\devNextx\\servces\\auth-servce\\Contracts\\Contracts.csproj": {
-                "projectPath": "H:\\devNextx\\servces\\auth-servce\\Contracts\\Contracts.csproj"
+              "H:\\Valentine\\angualr\\valentine\\authServce\\Contracts\\Contracts.csproj": {
+                "projectPath": "H:\\Valentine\\angualr\\valentine\\authServce\\Contracts\\Contracts.csproj"
+              },
+              "H:\\Valentine\\angualr\\valentine\\authServce\\Models\\Models.csproj": {
+                "projectPath": "H:\\Valentine\\angualr\\valentine\\authServce\\Models\\Models.csproj"
               }
             }
           }
@@ -296,7 +303,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -304,11 +311,11 @@
           "dependencies": {
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
-              "version": "[8.14.0, )"
+              "version": "[7.3.0, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
-              "version": "[8.14.0, )"
+              "version": "[7.3.0, )"
             }
           },
           "imports": [
@@ -327,7 +334,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

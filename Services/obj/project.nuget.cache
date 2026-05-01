@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rOpxkKMZ8pU=",
+  "success": true,
+  "projectFilePath": "H:\\Valentine\\angualr\\valentine\\authServce\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\coolk\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.3.0\\microsoft.identitymodel.abstractions.7.3.0.nupkg.sha512",
+    "C:\\Users\\coolk\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.3.0\\microsoft.identitymodel.jsonwebtokens.7.3.0.nupkg.sha512",
+    "C:\\Users\\coolk\\.nuget\\packages\\microsoft.identitymodel.logging\\7.3.0\\microsoft.identitymodel.logging.7.3.0.nupkg.sha512",
+    "C:\\Users\\coolk\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.3.0\\microsoft.identitymodel.tokens.7.3.0.nupkg.sha512",
+    "C:\\Users\\coolk\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.3.0\\system.identitymodel.tokens.jwt.7.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
